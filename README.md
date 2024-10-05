@@ -5,7 +5,7 @@ Coding test for Zeller
 # Folder Structure
 
 ```
-checkout-system/
+zeller-test/
 │
 ├── src/
 │   ├── models/
