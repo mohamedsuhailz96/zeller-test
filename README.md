@@ -1,8 +1,10 @@
-# zeller-test
+# Zeller Coding Test
+
 Coding test for Zeller
 
-Folder Structure
+# Folder Structure
 
+```
 checkout-system/
 │
 ├── src/
@@ -20,11 +22,13 @@ checkout-system/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
 
-How to run
-
+# How to run
+```
 cd zeller-test
 npm install
-npm test to run the test cases
+npm test
 npm start
+```
 
